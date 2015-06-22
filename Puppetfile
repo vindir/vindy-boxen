@@ -70,7 +70,7 @@ github "python",      "2.0.0"
 github "java",        "1.8.2"
 github "adium",           "1.4.0"
 
-github "hangout_plugin",  "1.0.0", :repo => "cefo/puppet-hangout_plugin"
+#github "hangout_plugin",  "1.0.0", :repo => "cefo/puppet-hangout_plugin"
 github "apachedirectorystudio", "0.0.3", :repo => "jplana/puppet-apachedirectorystudio"
 
 github "android"
