@@ -1,4 +1,4 @@
-class people::jowens {
+class people::vindir {
   include vonbiz
 
   package { 'watch':
