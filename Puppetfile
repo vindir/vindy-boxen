@@ -74,6 +74,7 @@ github "adium",           "1.4.0"
 github "apachedirectorystudio", "0.0.3", :repo => "jplana/puppet-apachedirectorystudio"
 
 github "android"
+github "caffeine"
 github "keepassx"
 github "postgresql"
 github "eclipse"
