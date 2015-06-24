@@ -39,6 +39,11 @@ GITHUBTARBALL
     dnsmasq (2.0.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.4.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-eclipse
   specs:
     eclipse (2.5.0)
@@ -263,6 +268,7 @@ DEPENDENCIES
   chrome (>= 0)
   ctags (>= 0)
   dnsmasq (= 2.0.1)
+  dropbox (>= 0)
   eclipse (>= 0)
   emacs (>= 0)
   evernote (>= 0)
