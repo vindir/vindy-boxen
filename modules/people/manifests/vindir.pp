@@ -3,6 +3,9 @@ class people::vindir {
   include caffeine
   include dropbox
 
+  package { 'irssi':
+    ensure => present,
+  }
   package { 'watch':
     ensure => present,
   }
